@@ -26,9 +26,9 @@
 <a href="LASSO_cleaned.html">LASSO Regression Most Important Coefficient Stabilities</a>
 <h3>Datasets</h3>
 <a href="lasso_coef_noprefixes_history.htm">LASSO Coefficients Across Models</a>
-<a href="radio_40.htm">40 Observations of Day/Night Tracks</a>
-<a href="radio_56.htm">56 Observations of Day/Night Tracks</a>
-<a href="radio_72.htm">72 Observations of Day/Night Tracks</a>
+<a href="radio_40.htm">40 Observations of Day/Night Tracks</a><br>
+<a href="radio_56.htm">56 Observations of Day/Night Tracks</a><br>
+<a href="radio_72.htm">72 Observations of Day/Night Tracks</a><br>
 <a href="radio_88.htm">88 Observations of Day/Night Tracks</a>
 
 </body>
