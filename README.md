@@ -31,4 +31,6 @@
 <a href="radio_72.htm">72 Observations of Day/Night Tracks</a><br>
 <a href="radio_88.htm">88 Observations of Day/Night Tracks</a>
 
+<h2>Other Examples and Figures</h2>
+  <a href="Galaxy_Clip_Graph.html">Graph of Place & Play Over Time from Super Mario Galaxy Clip</a>
 </body>
